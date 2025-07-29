@@ -1,4 +1,6 @@
 # Sales Performance Dashboard
+<img width="1029" height="508" alt="image" src="https://github.com/user-attachments/assets/4c74ecdc-dd54-4a8a-b0b9-491942ba3568" />
+
 
 ## Project Overview
 The goal of this project was to create an interactive Power BI dashboard that allows stakeholders to analyze sales performance data across multiple dimensions. The dashboard provides comprehensive insights into key metrics, such as revenue, customer trends, geographic distribution, and performance over time. It helps decision-makers make data-driven decisions to optimize sales strategies.
